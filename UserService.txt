@@ -4,3 +4,4 @@ process the data ..
 create an avatar from user ..
 login and logout
 chnage 1
+Adding temporary line for testing stash
